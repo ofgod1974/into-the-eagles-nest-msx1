@@ -1,0 +1,17 @@
+* text=auto eol=lf
+*.c text eol=lf
+*.h text eol=lf
+*.s text eol=lf
+*.cjs text eol=lf
+*.tcl text eol=lf
+*.ps1 text eol=crlf
+*.cmd text eol=crlf
+*.png binary
+*.lib binary
+*.rom binary
+assets/source/blocks binary
+assets/source/gfx binary
+assets/source/maps binary
+assets/source/maps2 binary
+vendor/** -whitespace
+assets/source/** -whitespace

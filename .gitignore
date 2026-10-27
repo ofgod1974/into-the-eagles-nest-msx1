@@ -1,0 +1,29 @@
+# Local development tools and emulator data
+/tools/
+/work/
+/build/
+*.wav
+*.url
+
+# Keep the Fusion-C library, headers and source; leave out bundled applications.
+/vendor/fusion-c/*
+!/vendor/fusion-c/license.txt
+!/vendor/fusion-c/README.md
+!/vendor/fusion-c/Working Folder/
+/vendor/fusion-c/Working Folder/*
+!/vendor/fusion-c/Working Folder/fusion-c/
+/vendor/fusion-c/Working Folder/fusion-c/*
+!/vendor/fusion-c/Working Folder/fusion-c/header/
+!/vendor/fusion-c/Working Folder/fusion-c/include/
+!/vendor/fusion-c/Working Folder/fusion-c/lib/
+!/vendor/fusion-c/Working Folder/fusion-c/source/
+
+# Temporary files and secrets
+**/.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.download

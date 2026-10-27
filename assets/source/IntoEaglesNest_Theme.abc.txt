@@ -1,0 +1,47 @@
+X: 1
+T:Into Eagle's Nest Theme (Commodore 64)
+C:Arranged/Transcribed by Stephan Pabst (Stephan64)
+Z:Transcribed by Stephan Pabst
+V:1 Program 1 0 treble
+V:2 Program 1 0 bass
+V:3 Program 1 0 bass
+L:1/4
+Q: 1/4=250
+K:C
+M:3/4
+V:1
+G,/G,/G,/C/D/F/ | E G<G | G3 | G>G z | G,/G,/G,/C/D/F/ | E3 | E3 | E>E z |
+V:2
+E,/ z E,/ z | E, E,/E,/E,/E,/ | E,/E,/E,/E,/E,/E,/ | E, E,/E,/E,/E,/ | E,/ z E,/ z | G, G,/G,/G,/G,/ | G,/G,/G,/G,/G,/G,/ | G, G,/G,/G,/G,/ |
+V:3
+C,,3/ z/ z | C,, C,,/C,,/ z | C,,3/ z/ z | C,, C,,/C,,/ z | C,,3/ z/ z | C,, C,,/C,,/ z | C,,3/ z/ z | C,, C,,/C,,/ z |
+V:1
+G,/G,/G,/C/D/F/ | E C/C/D/F/ | E C/C/D/F/ | E C/C/E/G/ | A3 | A3 | A3 | A>A z |
+V:2
+E,/ z E,/ z | G, E,/E,/ z | G, E,/E,/ z | G, E,/E,/ z | E,/E,/E,/E,/E,/E,/ | E E,/E,/E,/E,/ | E,/E,/E,/E,/E,/E,/ | E E,/E,/E,/E,/ |
+V:3
+C,,3/ z/ z | C,, C,,/C,,/ C,, | C,, C,,/C,,/ C,, | C,, C,,/C,,/ C,, | A,,,3/ E,,3/ | A,,, A,,,/A,,,/ E,, | A,,,3/ E,,3/ | A,,, A,,,/A,,,/ A,,, |
+V:1
+D,/D,/D,/G,/A,/C/ | B, D<D | D3 | D>D z | D,/D,/D,/G,/A,/C/ | B,3 | B,3 | B,>B, z |
+V:2
+B,,/ z B,,/ z | B,, B,,/B,,/B,,/B,,/ | B,,/B,,/B,,/B,,/B,,/B,,/ | B,, B,,/B,,/B,,/B,,/ | B,,/ z B,,/ z | D, D,/D,/D,/D,/ | D,/D,/D,/D,/D,/D,/ | D, D,/D,/D,/D,/ |
+V:3
+z3 | z3 | z3 | z3 | z3 | z3 | z3 | z3 |
+V:1
+D,/D,/D,/G,/A,/C/ | B, G,/G,/A,/C/ | B, G,/G,/A,/C/ | B, G,/G,/B,/D/ | E3 | E3 | E3 | E>E z |
+V:2
+B,,/ z B,,/ z | D, B,,/B,,/ z | D, B,,/B,,/ z | D, B,,/B,,/ z | B,,/B,,/B,,/B,,/B,,/B,,/ | B,, B,,/B,,/B,,/B,,/ | B,,/B,,/B,,/B,,/B,,/B,,/ | B,, B,,/B,,/B,,/B,,/ |
+V:3
+z3 | z3 | z3 | z3 | z z/ B,,,3/ | z2 B,,, | z z/ B,,,3/ | z3 |
+V:1
+B,3/ E3/ | F/A/F/ G3/ | F/A/F/ G E/ | F/A/F/ G E/ | B,3/ E3/ | F/A/F/ G E/ | A3 | A3 |
+V:2
+E,3/ B,,3/ | B,,/ z B,,/B,,/B,,/ | B,,/ z B,,/B,,/B,,/ | B,,/ z B,,/B,,/B,,/ | E,3/ B,,3/ | B,,/ z B,,/B,,/G,,/ | C,/C,/C,/C,/C,/C,/ | B,, B,,/B,,/B,,/B,,/ |
+V:3
+z3 | B,,,/ z/ z2 | B,,,/ z/ z2 | B,,,/ z/ z2 | z3 | B,,,/ z/ z2 | z3 | z3 |
+V:1
+E,3/ A,3/ | B,/D/B,/ C3/ | B,/D/B,/ C A,/ | B,/D/B,/ C A,/ | C3/ G,3/ | A,3/ B,/C/D/ | C3 | C3 | C3 | C C/C/C/C/ :| 
+V:2
+C,3/ C,3/ | E,/ z E,/E,/E,/ | E,/ z E,/E,/E,/ | E,/ z E,/E,/C,/ | E,3/ E,3/ | D,3/ D,3/ | C,3/ E,/E,/E,/ | C,3/ E,/E,/E,/ | E,/E,/E,/E,/E,/E,/ | B,, B,,/B,,/B,,/B,,/ :|
+V:3
+D,,3/ F,3/ | z z/ A,,,3/ | z z/ A,,,3/ | z z/ A,,,3/ | z3 | z3 | C,,3 | B,,,3 | A,,,3 | z3 :|
